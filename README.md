@@ -1,14 +1,11 @@
 ### Hi there 👋
-<div id="header" align="center">
 <img src="https://media.giphy.com/media/z2j0aGdJUBnoYdE0Jo/giphy.gif" width="300"/>
 </div>
 <div id="badges">
 </a>
-<div id="header" align="center"> 
 <a href="https://discord.com/channels/@clown_____dear">
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
-<div id="header" align="center">   
 <a href="https://twitter.com/Kathryn73721080">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
